@@ -1,0 +1,6 @@
+{
+    "editor.mouseWheelZoom": true,
+    "breadcrumbs.enabled": true,
+    "php.validate.executablePath": "",
+    "github.copilot.autocomplete.enable": true
+}
